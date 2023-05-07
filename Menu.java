@@ -1,3 +1,3 @@
 Hello world
-My name is ranjith reddy rampa
-i am studying this course.
+My name is ritish reddy rampa
+i am studying devops
